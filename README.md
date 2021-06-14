@@ -12,7 +12,7 @@ Running on Vercel serverless function, store data in Firebase (store only access
 
 ## Example
 
-![spotify-github-profile](/img/example.svg)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31a2xzgzif2lqharuwfpw4dsxyn4&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31a2xzgzif2lqharuwfpw4dsxyn4&redirect=true)
 
 ## Running for development locally
 
